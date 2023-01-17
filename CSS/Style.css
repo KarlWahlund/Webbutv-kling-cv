@@ -1,0 +1,90 @@
+
+body{
+    background-color: white;
+}
+.topbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 140px;
+    background-color: #58F5FF;
+}
+.home{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.me{
+    position: absolute;
+    top: 20px;
+    left: 140px;
+}
+.school{
+    position: absolute;
+    top: 20px;
+    left: 260px;
+}
+.hobby{
+    position: absolute;
+    top: 20px;
+    left: 380px;
+}
+.triangle-down{
+	width: 0;
+	height: 0;
+	border-left: 0px solid transparent;
+	border-right: 140px solid transparent;
+	border-top: 140px solid #58F5FF;
+    position: absolute;
+    top: 0px;
+    left: 500px;
+}
+.half-page{
+    width: 650px;
+    height: 864px;
+    background-color: #58F5FF;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.full-top-bar{
+    width: 1536px;
+    height: 140px;
+    background-color: #58F5FF;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.circle {
+    height: 400px;
+    width: 400px;
+    background-color: #58F5FF;
+    border-radius: 50%;
+}
+table, td {
+    border: 6px solid white;
+    border-collapse: collapse;
+    font-size: 30px;
+    padding: 8px;
+    text-align: center;
+    height: 50px;
+    width: 400px;
+}
+td {
+    background-color: #58F5FF;
+}
+th{
+    height: 50px;
+    width: 800px;
+}
+.form{
+    width: 300px;
+    border: 4px solid #58F5FF;
+}
+.title{
+    width: 172px;
+    margin-top: -11px;
+    margin-left: 10px;
+    background-color: white;
+}
